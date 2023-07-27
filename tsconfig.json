@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "dist" //adciona ao diretorio dist
+    "outDir": "public/dist", //adciona ao diretorio dist
+    "target": "ES2015",
   }
 }
